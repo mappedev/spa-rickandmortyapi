@@ -3,7 +3,7 @@ const Header = () => {
     <div class="header-main">
       <div class="header-logo">
         <h1>
-          <a href="/#">100tifi.co</a>
+          <a href="https://mappedev.github.io/spa-rickandmortyapi/">100tifi.co</a>
         </h1>
       </div>
       <div class="header-nav">
